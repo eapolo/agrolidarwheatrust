@@ -25,6 +25,17 @@ Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-t
 
 
 
+## Acknowledgements
+
+- This code has been created to convert pcd files to csv. We took as reference the code published by [pypcd4](https://github.com/MapIV/pypcd4/tree/main)to build this new code which do what we want to do. 
+
+
+
+
+
+
+
+
 
 
 
