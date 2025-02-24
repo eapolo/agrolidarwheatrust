@@ -37,7 +37,7 @@ python converter.py inputs outputs
 
 ## Acknowledgements
 
-- This code was developed to convert PCD files to CSV by adapting the pypcd4 code published at [https://github.com/MapIV/pypcd4/tree/main](https://github.com/MapIV/pypcd4/tree/main), ensuring it precisely meets our specific conversion requirements. We also want to express their gratitude to the [AGR-278; Smart Biosystems Lab](https://smartbiosystemlab.com/team/) research group for their un-wavering support throughout this study.
+- This code was developed to convert PCD files to CSV by adapting the pypcd4 code published at [https://github.com/MapIV/pypcd4/tree/main](https://github.com/MapIV/pypcd4/tree/main), ensuring it precisely meets our specific conversion requirements. We also want to express our gratitude to the [AGR-278; Smart Biosystems Lab](https://smartbiosystemlab.com/team/) research group for their un-wavering support throughout this study.
 
 
 
