@@ -19,11 +19,10 @@ Implementation of paper - [Monitoring leaf rust and yellow rust in wheat with 3D
 ## Installation & runnning the code
 
 - The code use libraries well known. But check in your environment if you have all the libraries used in this code. Check in the folde ```inputs``` you will find the pcd files and in the folder ```outputs``` the csv files will be saved. Currently there is a test.pcd files can be used for testing purposed. 
-- 
 ```
 git clone https://github.com/eapolo/agrolidarwheatrust.git
 cd agrolidarwheatrust
-python converter.py
+python converter.py inputs outputs
 ```
 
 
