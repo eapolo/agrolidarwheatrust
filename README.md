@@ -1,6 +1,9 @@
 # Converting PCD files to CSV for wheat rust detection using LiDAR point data
  
-Implementation of paper - [Monitoring leaf rust and yellow rust in wheat with 3D LiDAR sensing](#) - The full dataset used for this paper can be found at ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg).
+Implementation of paper - [Monitoring leaf rust and yellow rust in wheat with 3D LiDAR sensing](#) - The full dataset used for this study is available on **Zenodo**:  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://zenodo.org/record/XXXXXXX)  
+[![Open in Zenodo](https://img.shields.io/badge/Open%20Dataset-3083dc?logo=zenodo&logoColor=white)](https://zenodo.org/record/XXXXXXX)  
+
 
 
 
