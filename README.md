@@ -2,7 +2,6 @@
  
 Implementation of paper - [Monitoring leaf rust and yellow rust in wheat with 3D LiDAR sensing](#) - The full dataset used for this study is available on **Zenodo**:  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14889285.svg)](https://doi.org/10.5281/zenodo.14889285)  
-[![Open in Zenodo](https://img.shields.io/badge/Open%20Dataset-3083dc?logo=zenodo&logoColor=white)](https://zenodo.org/record/14889285)  
 
 
 
