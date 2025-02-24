@@ -2,17 +2,10 @@
  
 Implementation of paper - [Monitoring leaf rust and yellow rust in wheat with 3D LiDAR sensing](#)
 
-<div style="display: flex; align-items: center; gap: 8px; font-family: Arial, sans-serif;">
-    <span style="background-color: #666; color: white; padding: 6px 12px; border-radius: 6px; font-size: 14px;">
-        <strong>🔗 DOI:</strong> 10.5281/zenodo.XXXXXXX
-    </span>
-    <a href="https://zenodo.org/record/XXXXXXX" target="_blank" style="background-color: #3083dc; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 14px;">
-        Open in Zenodo
-    </a>
-    <span style="background-color: #a23b3b; color: white; padding: 6px 12px; border-radius: 6px; font-size: 14px;">
-        🏷 Zenodo
-    </span>
-</div>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://zenodo.org/record/XXXXXXX) 
+![Zenodo](https://img.shields.io/badge/🏷-Zenodo-red) 
+[![Open in Zenodo](https://img.shields.io/badge/Open%20in%20Zenodo-3083dc?logo=zenodo&logoColor=white)](https://zenodo.org/record/XXXXXXX)
+
 
 
 <div align="center">
