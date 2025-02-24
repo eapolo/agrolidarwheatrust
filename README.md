@@ -2,9 +2,18 @@
  
 Implementation of paper - [Monitoring leaf rust and yellow rust in wheat with 3D LiDAR sensing](#)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/yolov7-trainable-bag-of-freebies-sets-new/real-time-object-detection-on-coco)](https://paperswithcode.com/sota/real-time-object-detection-on-coco?p=yolov7-trainable-bag-of-freebies-sets-new)
-<a href="https://colab.research.google.com/gist/AlexeyAB/b769f5795e65fdab80086f6cb7940dae/yolov7detection.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
-[![arxiv.org](http://img.shields.io/badge/cs.CV-arXiv%3A2207.02696-B31B1B.svg)](https://arxiv.org/abs/2207.02696)
+<div style="display: flex; align-items: center; gap: 8px; font-family: Arial, sans-serif;">
+    <span style="background-color: #666; color: white; padding: 6px 12px; border-radius: 6px; font-size: 14px;">
+        <strong>🔗 DOI:</strong> 10.5281/zenodo.XXXXXXX
+    </span>
+    <a href="https://zenodo.org/record/XXXXXXX" target="_blank" style="background-color: #3083dc; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 14px;">
+        Open in Zenodo
+    </a>
+    <span style="background-color: #a23b3b; color: white; padding: 6px 12px; border-radius: 6px; font-size: 14px;">
+        🏷 Zenodo
+    </span>
+</div>
+
 
 <div align="center">
     <a href="./">
