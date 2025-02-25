@@ -49,9 +49,7 @@ If you use this code, please cite our paper:
 
 ## 📧 Contact
 
-For any inquiries or collaboration opportunities, feel free to reach out to 🎓  
-[Dr. Manuel Pérez-Ruiz](https://investigacion.us.es/sisius/sis_showpub.php?idpers=13382) or  
-🎓 [Dr. O. Enrique Apolo-Apolo](https://eapolo.github.io/research/).
+For any inquiries or collaboration opportunities, feel free to reach out to 🎓 [Dr. Manuel Pérez-Ruiz (https://investigacion.us.es/sisius/sis_showpub.php?idpers=13382) or 🎓 [Dr. O. Enrique Apolo-Apolo](https://eapolo.github.io/research/).
 
 
 ---
