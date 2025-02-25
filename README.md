@@ -40,6 +40,18 @@ python converter.py inputs outputs
 
 
 
+## 📖 Citation
+
+If you use this code, please cite our paper:
+
+
+
+
+## 📧 Contact
+
+For any inquiries or collaboration opportunities, feel free to reach out to 🎓 <a href="[http://www.earthmapps.io/people.html](https://investigacion.us.es/sisius/sis_showpub.php?idpers=13382)" target="_blank">Dr. Manuel Pérez-Ruiz</a> or 🎓 <a href="https://eapolo.github.io/research/" target="_blank">Dr. O. Enrique Apolo-Apolo</a>.
+
+---
 
 
 
