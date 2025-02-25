@@ -26,7 +26,7 @@ git clone https://github.com/eapolo/agrolidarwheatrust.git
 cd agrolidarwheatrust
 python converter.py inputs outputs
 ```
-
+- In the folder ```figures```, you will find the codes to generate each of the figures from the mentioned paper. The file ```data-rust-net.csv``` is used to generate the figures. The file ```test1.txt``` is a sample point cloud. However, if you want to explore the rest of the point clouds, you will need to download the data from Zenodo, as mentioned at the top of this document. 
 
 ## Device
 
