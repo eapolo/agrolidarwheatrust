@@ -52,8 +52,6 @@ If you use this code, please cite our paper:
 For any inquiries or collaboration opportunities, feel free to reach out to 🎓 <a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=13382" target="_blank">Dr. Manuel Pérez-Ruiz</a> or 🎓 <a href="https://eapolo.github.io/research/" target="_blank">Dr. O. Enrique Apolo-Apolo</a>.
 
 
----
-
 
 
 
